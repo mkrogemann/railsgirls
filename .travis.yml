@@ -1,0 +1,4 @@
+env:
+  - TRAVIS=true
+language: ruby
+script: bundle exec rspec spec
